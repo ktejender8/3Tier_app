@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\tejender\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\tejender\\.nuget\\packages"
-    ]
-  }
-}
