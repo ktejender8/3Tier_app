@@ -1,4 +1,4 @@
-# 3Tier_app
+# 3Tier_app && Query metadata
 
 This is  3tier architecture for shopping app
 It has three microservices 
