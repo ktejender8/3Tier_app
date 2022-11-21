@@ -63,4 +63,10 @@ Create shopping client service as a Loadbalancer to expose the application on th
 Once done 
 kubectl apply -f ./AKS
 
+  
+  _________________________________________________________________________________________________________________________________
+  
+  Querying metadata of an azure instance 
+  
+  I have written a powershell script to query the metada
 
